@@ -9,4 +9,8 @@ To make the collision more obvious we can use just the disk and bulge locations 
 
 This is why we decided to use CUDA: CUDA will be dealing with computing and updating the particle positions. OpenGL will be used to display the results.
 
-The file 
+We used the NVIDIA Jestson TK1 development board under a Linux OS to run the simulations.
+
+The file galaxeirb_2019.pdf contains an exhaustive description of the tools used in the project as well as the different commands used to run each example.
+
+The file galaXeirb.pdf is the project report, it presents the results obtained.
